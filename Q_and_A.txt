@@ -1,3 +1,5 @@
 What is your stopwoord?	64492780ccd6dbdc0ee6b67ca30bd167ac188e23
 
 Did you throw beers often?      0cf2bfbdc767faf443d39239000989257be16fb4
+
+How is your study?	773f772e62d4c8a49e5b26f670903788dd9a55ca
