@@ -8,3 +8,9 @@ How is your study?	773f772e62d4c8a49e5b26f670903788dd9a55ca
 
 
 Do you like Ketel?	0d30141e4a89d37ec04915cc2cd09fe71cf1160c
+
+What do you use for making your beloved sandwhich during lunch?	7653a5e5e45d50435ba4fe542aa63ebe5eb4ff4a
+
+Did you ever work with Nikos?	42ef4320dad7bb4a6a2601a7dfdf4e0178e3ffd7
+
+Do you like cheese?	3180646f520a9f6619a893d2d225b234750e86dd
