@@ -5,10 +5,9 @@ Did you throw beers often?      0cf2bfbdc767faf443d39239000989257be16fb4What is 
 Yes, CDL once at their drinks because they got Nikos good one time and ruined his suit
 
 How is your study?	773f772e62d4c8a49e5b26f670903788dd9a55ca
-
+Could be better, but it is nice that Ava and I study in the bar, I am there often as there is nobody else during corona
 
 Do you like Ketel?	0d30141e4a89d37ec04915cc2cd09fe71cf1160c
-
 
 What do you use for making your beloved sandwhich during lunch?	7653a5e5e45d50435ba4fe542aa63ebe5eb4ff4a
 
@@ -18,4 +17,6 @@ Do you like cheese?	3180646f520a9f6619a893d2d225b234750e86dd
 
 (Antwoord Ketel)
 No I like cider, that reminds me that one day I was just vibing in Bar Amsterdam, in Alphen that is I randomly got hit by some random asian.
+
+Have their been exciting moments in the board?	6e213fe6defee77c6867e82edac6d80c31f782fa
 
